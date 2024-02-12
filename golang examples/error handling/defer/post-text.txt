@@ -1,0 +1,6 @@
+Let's learn about 'defer' keyword in Golang.
+It puts statements in a stack, and executes them in LIFO (last-in first-out) manner. And defer statements run after parent scope/loop finishes execution.
+
+Lets see an example:
+
+#golang #go #programming #coding #vscode

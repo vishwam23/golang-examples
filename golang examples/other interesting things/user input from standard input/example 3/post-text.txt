@@ -1,0 +1,5 @@
+When usig fmt.Scanln(), we must remember its limit. It reads only one word. If we enter a string of multiple words, only first word is read.
+
+Lets learn with a simple example:
+
+#golang #go #programming #coding #vscode

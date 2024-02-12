@@ -1,0 +1,5 @@
+If we want to send multiple values inside a channel, and receive them at a later point, we can use buffered channels.
+
+Lets learn about buffered channels with a simple example:
+
+#golang #go #programming #coding #vscode

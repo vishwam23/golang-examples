@@ -1,0 +1,5 @@
+If a struct wants to satisfy an interface type, it needs to have methods, whose signatures match with the method signatures defined in interface.  
+
+Lets understand with an example:  
+
+#golang #go #programming #coding

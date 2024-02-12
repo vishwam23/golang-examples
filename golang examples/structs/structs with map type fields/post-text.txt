@@ -1,0 +1,3 @@
+Lets learn how we can use maps inside structs. Here is a simple example:
+
+#golang #go #programming #coding #vscode

@@ -1,0 +1,5 @@
+If we want out parent calling function (or main thread) to wait for the goroutines to complete their execution, we need channels. Channels are mainly used as data pipelines to transfer data between goroutines.
+
+Lets see how channels can be used to wait for goroutines to complete their execution:
+
+#golang #go #programming #coding #vscode

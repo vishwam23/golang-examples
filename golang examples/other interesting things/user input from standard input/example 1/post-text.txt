@@ -1,0 +1,5 @@
+Lets learn how we can read user's input (single-word) from standard input and print it.
+
+Here is a simple example:
+
+#golang #go #programming #coding #vscode

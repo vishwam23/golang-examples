@@ -1,0 +1,5 @@
+Lets say we have a slice of interface{} type, which has elements of various types. Lets learn how we can group elements of same type together and place them into different slices.
+
+Here is a simple example:
+
+#golang #go #programming #coding #vscode

@@ -1,0 +1,5 @@
+To export a struct properly, its fields must also have first letters of their names in upper-case. Otherwise, the struct will be exported, but its fields would not be accessible outside parent package.
+
+Lets see an example:
+
+#golang #go #programming #coding #vscode

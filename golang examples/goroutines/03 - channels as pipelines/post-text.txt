@@ -1,0 +1,6 @@
+Channels are pipelines which are used to transfer data between goroutines. 
+Also, when there are several channels & goroutines, we should use uni-directional channels to enhance code safety.
+
+Lets take an example to understand:
+
+#golang #go #programming #coding #vscode

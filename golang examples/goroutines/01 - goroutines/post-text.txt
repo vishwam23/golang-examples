@@ -1,0 +1,6 @@
+Lets start learning about goroutines.
+A goroutine is a function, which runs as an independent thread, parallel to our main program.
+
+Lets see an example of how to declare a goroutine:
+
+#golang #go #programming #coding #vscode

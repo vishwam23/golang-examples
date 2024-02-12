@@ -1,0 +1,5 @@
+When we are typecasting values from one data type to another, we need to remember that some typecasts (int to float) are safe, while some (like float to int) maynot be safe to typecast and cause data losses or errors.
+
+Let's see an example:
+
+#golang #go #programming #coding #vscode

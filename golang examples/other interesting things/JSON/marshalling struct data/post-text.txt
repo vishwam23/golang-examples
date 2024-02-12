@@ -1,0 +1,5 @@
+Lets learn how to marshall a struct's data into json format.
+
+Here is a simple example:
+
+#golang #go #programming #coding #vscode

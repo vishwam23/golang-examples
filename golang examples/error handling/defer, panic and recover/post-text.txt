@@ -1,0 +1,5 @@
+For error handling in Golang, "defer", "panic" & "recover" are commonly used.
+
+Lets see an example to learn how all these 3 are used together.
+
+#golang #go #programming #coding #vscode

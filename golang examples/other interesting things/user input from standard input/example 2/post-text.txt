@@ -1,0 +1,5 @@
+fmt.Scanln() provides an easy way to read user input (single-word) from stdin.
+
+Lets learn with a simple example:
+
+#golang #go #programming #coding #vscode

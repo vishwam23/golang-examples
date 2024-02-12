@@ -1,0 +1,5 @@
+Lets learn about constructors for struct types. They are helpful when we want to create struct objects with non-default or custom values.
+
+Lets take a simple example:
+
+#golang #go #programming #coding #vscode

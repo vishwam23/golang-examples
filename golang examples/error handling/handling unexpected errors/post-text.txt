@@ -1,0 +1,5 @@
+In Golang, we know that errors are generally returned as values by functions. But, there may be cases where, an unexpected error occurs, which our functions can't handle. 
+
+Lets see an example of how we can handle unexpected runtime panics. 
+
+#golang #go #programming #coding

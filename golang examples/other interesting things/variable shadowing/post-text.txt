@@ -1,0 +1,5 @@
+Lets learn about variable shadowing. If we have a global variable, and we declare a new variable with the same name, inside a function or scope, then we cant use the global variable inside that scope or function.
+
+Lets see an example:
+
+#golang #go #programming #coding #vscode

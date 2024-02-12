@@ -1,0 +1,5 @@
+Lets learn how we can pass an error from  a function.
+
+Below is a simple example:
+
+#golang #go #programming #coding #vscode

@@ -1,0 +1,5 @@
+Lets learn about wait groups. While channels can be used to make the main thread wait for goroutines, this job primarily belongs to wait groups. Wait groups make waiting for goroutines very easy to handle.
+
+Lets see an example:
+
+#golang #go #programming #coding #vscode
